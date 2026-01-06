@@ -64,6 +64,6 @@ You can use the script in two ways:
 ## Author
 
 - **Name**: SCARYDEVIL681
-- **GitHub**: [scarydevil681](https://github.com/Stormterror)
+- **GitHub**: [scarydevil681](https://github.com/Scarydevil)
 - **Email**: darshanmb68@gmail.com
 
